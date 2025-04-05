@@ -1,2 +1,2 @@
 # Macetador3000
-Just a little Python code using tkinter
+The code and stuff about it is located on folder above
